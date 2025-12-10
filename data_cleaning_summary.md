@@ -640,7 +640,7 @@ Not all datasets require extensive cleaning, but all datasets require validation
 
 With validated data confirmed ready:
 1. ✅ Load into MySQL database for querying
-2. ✅ Create Tableau geographic visualizations
+2. ✅ Create Tableau geographic visualisations
 3. ✅ Perform business analysis queries
 4. ✅ Generate insights and recommendations
 
@@ -649,3 +649,5 @@ With validated data confirmed ready:
 **Validation Completed**: December 2025  
 **Dataset Status**: Production-Ready  
 **Quality Assurance**: Passed All Checks
+
+FINAL NOTE: As this dataset uses continuous meteo info, received from many Meteo Stations, it is most probable that if anyone(including me) attends to check this info later on, some of them might have changed in the meantime. Due to he nature of this info type, it is understandable that the weather is changing continuously.
