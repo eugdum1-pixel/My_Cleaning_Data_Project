@@ -650,4 +650,5 @@ With validated data confirmed ready:
 **Dataset Status**: Production-Ready  
 **Quality Assurance**: Passed All Checks
 
-FINAL NOTE: As this dataset uses continuous meteo info, received from many Meteo Stations, it is most probable that if anyone(including me) attends to check this info later on, some of them might have changed in the meantime. Due to he nature of this info type, it is understandable that the weather is changing continuously.
+FINAL NOTE: As this dataset uses continuous meteo info, received from many Meteo Stations, it is most probable that if anyone(including me) attends to check this info later on, some of them might have changed in the meantime. Due to the nature of this info type, it is understandable that the weather is changing continuously.
+
