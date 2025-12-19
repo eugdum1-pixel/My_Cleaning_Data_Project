@@ -1,5 +1,20 @@
 <p align="center"> <h1>🚀 LOCAL AI ARCHITECTURE: MCP vs. RAG</h1> <h3>Architecting Intelligence from Raw Data Units</h3> </p>
 
+> **Project Status:** Production-Ready | **Data Integrity:** 99.90% | **Architecture:** RAG-Enabled
+
+### 📖 The Engineering Mission
+This repository documents the end-to-end transformation of high-volume, unstructured industry data into a semantically-aware AI knowledge system. Processing a total of **13,952 data units** extracted from UK industry reports, this project bridges the gap between raw information and actionable intelligence.
+
+### 🏗️ Pipeline Architecture at a Glance
+The system is built on a four-stage industrial pipeline:
+1. **Validation:** A rigorous "Gatekeeper" phase ensuring a **99.90% integrity rate** across 139 JSON data chunks.
+2. **Enrichment:** A semantic taxonomy layer that categorizes data into **Public Policy**, **Business Impact**, and **Future of Work** sectors.
+3. **Vectorization:** Deployment of a local **Sentence-Transformer** model to map 13,938 validated units into a 384-dimensional neural space.
+4. **Retrieval (RAG):** A custom-built query engine that provides context-filtered, high-precision search results using Cosine Similarity.
+
+*This project serves as a blueprint for local-first AI architectures, prioritizing data privacy, technical rigor, and semantic accuracy.*
+
+
 📌 Project Overview
 This project demonstrates the end-to-end engineering required to transform raw data into a professional AI knowledge system. Whether working with a custom dataset (in this project: 13,938 data units extracted from UK industry reports) or your own proprietary data, this repository provides the blueprint for two distinct integration paths:
 
