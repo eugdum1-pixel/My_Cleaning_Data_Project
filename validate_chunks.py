@@ -1,7 +1,7 @@
 # ==============================================================================
 # PROJECT: End-to-End AI Data Pipeline (UK Industry Insights)
 # STAGE: 1 - Data Validation & Schema Enforcement
-# AUTHOR: [Gigel Dumitru - GitHub Profile:https://github.com/eugdum1-pixel
+# AUTHOR: [Gigel Dumitru - GitHub Profile:https://github.com/eugdum1-pixel]
 # DATE: 2025-12-19
 # DESCRIPTION: 
 #   Automated audit tool to verify the integrity of JSON data units. 
@@ -86,4 +86,5 @@ def validate_stage_1(data_path):
 if __name__ == "__main__":
     # Local path to your data chunks
     TARGET_DIR = r"C:\DataScienceBootcamp\scripts\PROGRES_SIGUR_CHUNK"
+
     validate_stage_1(TARGET_DIR)
