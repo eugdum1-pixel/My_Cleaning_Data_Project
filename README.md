@@ -99,24 +99,20 @@ if __name__ == "__main__":
     DATA_DIR = "./data/chunks" 
     validate_data_integrity(DATA_DIR)
 
-<p align="center">
-  <h2>🏷️ STAGE 2: SEMANTIC TAXONOMY</h2>
-</p>
+## 🏷️ Stage 2: Semantic Taxonomy
 
-To transform raw data into a structured knowledge base, we implement a custom enrichment pipeline. This process categorizes each data unit into one of three thematic "Zones" based on specific industry keywords.
+To transform raw data into a structured knowledge base, we categorize each unit into one of three thematic "Zones":
 
 | Zone | Category | Logic / Keywords | Goal |
 | :--- | :--- | :--- | :--- |
-| **Zone A** | **Public & Policy** | Government, NHS, Ethics, Safety | Ensuring AI understands regulatory guardrails. |
-| **Zone B** | **Business Impact** | Investment, Market, Revenue, Startups | Focusing on economic growth and industry scale. |
-| **Zone C** | **Future of Work** | Skills, Automation, Jobs, Training | Preparing AI for human-centric labor evolution. |
+| **Zone A** | **Public & Policy** | Government, NHS, Ethics, Safety | Regulatory guardrails. |
+| **Zone B** | **Business Impact** | Investment, Market, Revenue, Startups | Economic growth. |
+| **Zone C** | **Future of Work** | Skills, Automation, Jobs, Training | Labor evolution. |
 
-### 📊 Enrichment Statistics (Latest Audit)
-* **Zone A (Public/Policy):** [Paste Number From Terminal] units
-* **Zone B (Business/Impact):** [Paste Number From Terminal] units
-* **Zone C (Future of Work):** [Paste Number From Terminal] units
-* **Uncategorized:** [Paste Number From Terminal] units
-
+### 📊 Latest Audit Statistics
+- **Total Individual Data Units:** 13,952
+- **Successfully Validated:** 13,938
+- **Integrity Rate:** 99.90%
 ---
 
 ### 📂 Stage 2 Tooling
