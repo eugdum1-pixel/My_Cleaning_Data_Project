@@ -98,5 +98,4 @@ if __name__ == "__main__":
     # Path to the data directory (Adjust to your local path)
     DATA_DIR = "./data/chunks" 
     validate_data_integrity(DATA_DIR)
-Next Steps in the Learning Path:
-Now that the README.md framework is ready for your portfolio, should we move to the Full Implementation of the Stage 1 Validation Script? This will produce the first real report for your project.
+
