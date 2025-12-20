@@ -1,4 +1,4 @@
-🎓 # 01. ZONE A: PUBLIC RIGOR & ETHICAL COMPLIANCE
+🎓 ## 01. ZONE A: PUBLIC RIGOR & ETHICAL COMPLIANCE
 (To be placed in the README.md within the 01_Zona_A_Public_Rigor folder)
 
 Pillar of Governance and Ethics in Industrial AI
