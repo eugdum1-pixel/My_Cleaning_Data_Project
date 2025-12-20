@@ -4,7 +4,7 @@
 ---
 
 ### 📋 OVERVIEW
-Dedicated to the human element of the AI transition, this zone analyzes labor market shifts and emerging job roles within the **13,938 validated units**.
+Dedicated to the human element of the AI transition, this zone analyses labour market shifts and emerging job roles within the **13,938 validated units**.
 
 ### 🎯 STRATEGIC GOALS
 * **Identify Skills Gap:** Evaluating the mismatch between current talent and AI needs.
@@ -16,7 +16,7 @@ Dedicated to the human element of the AI transition, this zone analyzes labor ma
 ### 🧠 KEY FOCUS AREAS
 - **Workforce Readiness:** Educational alignment with Industry 4.0 standards.
 - **Emerging Roles:** New career paths created by AI integration in the industrial sector.
-- **Social Impact:** Ethical considerations of automated labor and worker transition.
+- **Social Impact:** Ethical considerations of automated labour and worker transition.
 
 ---
 
