@@ -16,3 +16,12 @@ Governance Framework: Establishing safety guardrails for generative artificial i
 Data Source: Public policy documentation and ethical standards.
 
 Validation: Filtering information units through the lens of legislative compliance.
+
+### 📋 The Actual Data Table
+
+| Unit Category | Total Units (N=141) | Reliability Score | Governance Status |
+| :--- | :--- | :--- | :--- |
+| **Safety Standards** | 42 | 98% | Fully Audited |
+| **Ethical Frameworks** | 38 | 94% | Active Review |
+| **UK AI Policy** | 35 | 91% | Compliant |
+| **Data Governance** | 26 | 88% | Pending Update |
