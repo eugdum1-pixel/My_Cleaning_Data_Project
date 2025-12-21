@@ -1,34 +1,78 @@
-# 🌍 UK Industry Analytics - TripleZone Framework
+# 🚀 Local AI Architecture — Triple-Zone Framework
+Architecting intelligence from raw data units for private, local-first semantic search.
 
-## 🚀 Project Mission
-This project implements a professional AI-driven analytical framework to evaluate industrial sector readiness and strategic alignment. Using a local Large Language Model (**DeepSeek-R1**), the system processes specialised industrial policy documents and research data to generate actionable business scores.
+## 📊 Project Impact (Executive Summary)
+Business ROI: 26.04% (Average across all strategic zones)
 
----
+System Reliability: 93.37% (Stability & Safety Rate)
 
-## 🏗️ TripleZone Architecture
-The repository follows a Medallion-inspired structure to ensure high standards of data governance:
+Data Integrity: 99.90% (13,938 validated units)
 
-* **01_Zona_A_Public_Rigor**: Contains specialised industrial research, policy papers, and sector studies. All sources are curated and renamed for maximum traceability and professional audit standards.
-* **02_Zona_B_Business_Impact**: The "Gold Layer" featuring AI-synthesised intelligence and scoring, optimised for executive Power BI dashboards.
-* **03_Zona_C_Future_of_Work**: Houses global reference frameworks and World Bank API specifications for international benchmarking.
+Architecture: Retrieval-Augmented Generation (RAG) using 384-dimensional neural embeddings.
 
----
+# 🗺️ The Triple-Zone Framework
+This framework organises industrial data into three distinct impact layers, reflected in the integrated dashboards:
 
-## 🧠 Technology & Scalability
-* **Orchestration**: `ai_global_master.py` - The central engine managing data logic and AI integration.
-* **AI Engine**: DeepSeek-R1 (via Ollama) – chosen for its high-level reasoning and 100% local data privacy.
-* **Future-Proofing**: The architecture includes the **World Bank Data360 OpenAPI** specification. This allows the framework to scale from current static qualitative analysis to live, multi-indicator global economic data feeds.
+## 🏛️ ZONE A: PUBLIC POLICY & ETHICS - Government standards, NHS guidelines, and regulatory guardrails.
 
----
+## 💰 ZONE B: BUSINESS IMPACT - Economic signals, investment trends, and revenue growth.
 
-## 📊 Quick Start Guide
-1. **Environment**: Ensure **Ollama** is active with the `deepseek-r1:8b` model.
-2. **Execute**: Run `python scripts/ai_global_master.py` to process the industrial data pipeline.
-3. **Visualise**: Load the Power BI report and refresh the connection to `02_Zona_B_Business_Impact`.
+## 🎓 ZONE C: WORKFORCE & SKILLS - Labour trends, automation impact, and training frameworks.
 
----
+<details> <summary><b>📈 Interactive Visualisations (Power BI & Tableau)</b></summary>
 
-## 📝 Development Evolution (Changelog)
-* **Refactoring**: Consolidated legacy code into a unified, high-performance Master Engine.
-* **Data Curation**: Transitioned from general training datasets to high-value industrial policy documents.
-* **Standardisation**: Migrated the project to the TripleZone Framework for professional-grade data lineage.
+The project includes an advanced visual analytics component for executive decision-making:
+
+## Strategic Matrix (Tableau): Visualising the correlation between ROI and Reliability across intelligence zones.
+
+## Operational Dashboard (Power BI):
+   ## * Page 1: Executive Gauges for real-time monitoring of ROI (26.04%), Reliability (93.37%), and Complexity (6.73).
+
+   ## * Page 2: Profit Hunter Analysis using conditional formatting to highlight high-performing zones.
+
+</details>
+
+<details> <summary><b>⚙️ Technical Pipeline & Architecture</b></summary>
+
+The system follows a "Medallion-inspired" structure through 5 key stages:
+
+## Validation: Gatekeeper phase enforcing schema and data integrity (13,952 units processed).
+
+## Semantic Enrichment: Programmatically categorising data into the Triple-Zone taxonomy.
+
+## Neural Vectorisation: Utilising all-MiniLM-L6-v2 for high-precision semantic search.
+
+## Vector Storage: Local NumPy (.npz) archive optimised for sub-second retrieval.
+
+## Inference & RAG: Integration with a local LLM (DeepSeek-R1 via Ollama) for grounded, private answers.
+
+Core Execution Commands:
+
+python validate_chunks.py
+
+python create_embeddings.py
+
+python query_engine.py
+
+</details>
+
+<details> <summary><b>🛠️ Dependencies & Environment</b></summary>
+
+Python: 3.8+ recommended.
+
+AI Engine: DeepSeek-R1 (8b) running via Ollama.
+
+Libraries: sentence-transformers, numpy, faiss, orjson.
+
+Privacy: 100% local deployment ensures no data leakage to external APIs.
+
+</details>
+
+# 📝 Development Evolution (Changelog)
+## Engine Refactoring: Consolidated legacy code into a high-performance Unified Master Engine.
+
+## Power BI Integration: Added Power BI visualisations to validate AI-synthesised scores against industrial KPIs.
+
+## Standardisation: Migrated to the TripleZone Framework for professional-grade data lineage and auditability.
+
+Author: eugdum1-pixel | Status: Production-Ready | Year: 2025
